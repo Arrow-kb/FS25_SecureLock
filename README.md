@@ -3,6 +3,13 @@ In development SecureLock mod for FS25 by Arrow.
 
 Automatically adds electronic keypad locks to all supported buildings. Locks are fully interactable by the player, and prevent the opening/closing of doors. Such locks are widely used by farmers with modern buildings for easy security.
 
+# Features
+- Set and change passwords at will
+- Doors are locked unless password is correct
+- Flashing lights and error messages for clear display
+- Buttons move when pushed
+- Password can be censored
+
 # Screenshots
 <img width="3840" height="2160" alt="fsScreen_2025_09_25_18_37_44" src="https://github.com/user-attachments/assets/76457a2f-9d90-4e41-9417-a55dc1a8efd6" />
 <img width="3840" height="2160" alt="fsScreen_2025_09_25_18_37_58" src="https://github.com/user-attachments/assets/9d745dec-efdb-47ac-b588-dc45dd03627c" />
