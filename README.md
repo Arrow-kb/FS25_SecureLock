@@ -7,6 +7,7 @@ Automatically adds electronic keypad locks to all supported buildings. Locks are
 - Set and change passwords at will
 - Doors are locked unless password is correct
 - Flashing lights and error messages for clear display
+- Buttons are fully interactable by the player in the world without a GUI menu
 - Buttons move when pushed
 - Password can be censored
 
